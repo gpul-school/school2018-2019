@@ -1,7 +1,7 @@
 
 <img src="images/Pingu_gpul_PIZARRA.png" width="250" height="208" display="block" margin-left="auto" margin-right="auto" align="center">
 
-[Quén somos](/images/Banner_1.png)
+![Quén somos](/images/Banner_1.png)
 # GPUL SCHOOL
 Organización GPUL School 2018-2019
 
