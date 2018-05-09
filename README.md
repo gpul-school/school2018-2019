@@ -1,4 +1,4 @@
-<img src="images/Pingu_gpul_PIZARRA.png" width="250" height="208" align="center">
+<img src="images/Pingu_gpul_PIZARRA.png" width="250" height="208" align="middle">
 
 # school2018-2019
 Organización GPUL School 2018-2019
