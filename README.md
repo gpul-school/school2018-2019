@@ -1,4 +1,4 @@
-![Prueba Imagen](images/Pingu_gpul_PIZARRA.tif)
+![Prueba Imagen](images/Pingu_gpul_PIZARRA.png)
 
 # school2018-2019
 Organización GPUL School 2018-2019
