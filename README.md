@@ -18,5 +18,5 @@ Podes poñerte en contacto connosco a traves do email **info@gpul.org** ou busca
 
 Tamén podes encontrarnos na nosa [páxina web](http://gpul.org) e nas nosas redes sociais.
 
-Twitter: **@gpul_** 
+Twitter: [@gpul_](https://twitter.com/gpul_)
 
